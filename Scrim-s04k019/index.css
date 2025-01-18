@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+.resultado{
+    font-size: 80px;
+    background: #0a0001;
+    width: 120px;
+    margin: 20px;
+    color: #F94F6D;
+    border-radius: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    }
+.titulo{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 50px;
+}
+.button{
+    background: none;
+    color: white;
+    border-radius:20%;
+    border-color: none;
+    font-family: 'Courier New', Courier, monospace;
+}
